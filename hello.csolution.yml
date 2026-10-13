@@ -11,7 +11,7 @@ solution:
 
   # List the packs that define the device and/or board.
   packs:
-    - pack: ARM::CMSIS
+    - pack: ARM::CMSIS@6.4.0
     - pack: ARM::CMSIS-Compiler
     - pack: NXP::MIMXRT1064_DFP
     - pack: NXP::EVK-MIMXRT1064_BSP
